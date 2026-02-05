@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "color": "Oq"
+  },
+  {
+    "id": 2,
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2022,
+    "color": "Qora"
+  },
+  {
+    "id": 3,
+    "brand": "Hyundai",
+    "model": "Sonata",
+    "year": 2024,
+    "color": "Kumush"
+  }
+]
